@@ -1,2 +1,14 @@
 # 30-days-mern-challenge
-A 30 Day MERN  Stack Challenge where I build projects daily to improve my full stack development skills.
+
+This repository contains my 30-day journey learning and building projects using MERN stack.
+
+Tech Stack:
+- MongoDB
+- Express
+- React
+- Node.js
+- Tailwind CSS
+
+## Progress
+
+Day 1 MERN challenge - Server Setup & Basic API
