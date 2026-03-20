@@ -12,7 +12,7 @@ const todoRoutes = require("./routes/todoRoutes");
 
 app.use("/api/todos", todoRoutes);
 
-// error middleware (last)
+// error middleware
 app.use(errorHandler);
 
 app.listen(5000, () => {
