@@ -16,3 +16,4 @@ Day 2 MERN challenge - Express Server with Routing
 Day 3 MERN challenge - Notes CRUD API
 Day 4 MERN challenge - Notes API with Database Integration
 Day 5 MERN challenge - Todo API (Production level)
+Day 6 MERN challenge - Clean & Scalable API Architecture
