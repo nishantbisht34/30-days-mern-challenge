@@ -9,11 +9,14 @@ Tech Stack:
 - Node.js
 - Tailwind CSS
 
-## Progress
+Progress / Projects
 
-Day 1 MERN challenge - Server Setup & Basic API
-Day 2 MERN challenge - Express Server with Routing
-Day 3 MERN challenge - Notes CRUD API
-Day 4 MERN challenge - Notes API with Database Integration
-Day 5 MERN challenge - Todo API (Production level)
-Day 6 MERN challenge - Clean & Scalable API Architecture
+| Day | Project | Description |
+|-----|---------|-------------|
+| 1 | Server Setup & Basic API | Setup Node.js server and Express routes |
+| 2 | Express Server with Routing | Created structured routes for APIs |
+| 3 | Notes CRUD API | Built Notes API with full CRUD functionality |
+| 4 | Notes API + Database | Integrated MongoDB for persistent storage |
+| 5 | Todo API (Production Level) | Full-featured Todo API with validation |
+| 6 | Clean & Scalable API Architecture | Refactored APIs for maintainability |
+| 7 | Todo API Documentation | Wrote professional README & API docs |
