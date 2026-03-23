@@ -29,6 +29,7 @@ This repository contains my 30-day journey learning and building projects using 
 | 5   | Todo API (Production Level)       | Full-featured Todo API with validation       |
 | 6   | Clean & Scalable API Architecture | Refactored APIs for maintainability          |
 | 7   | Todo API Documentation            | Wrote professional README & API docs         |
+| 8   | Todo API with Authentication      | Implemented POST /api/users & JWT auth      |
 
 ---
 
@@ -124,4 +125,5 @@ Error Response:
 {
   "error": "Todo not found"
 }
+
 
