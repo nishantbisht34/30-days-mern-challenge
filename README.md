@@ -4,7 +4,11 @@ This repository contains my 30-day journey learning and building projects using 
 
 ---
 
+<<<<<<< HEAD
 ## Tech Stack
+=======
+## ⚙️ Tech Stack
+>>>>>>> day08-todo-api-with-auth
 
 - **MongoDB** – NoSQL database for storing data
 - **Express.js** – Backend framework for building APIs

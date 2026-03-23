@@ -30,7 +30,7 @@ exports.updateTodo = async (req, res) => {
 
   if (!todo) {
     return res.status(404).json({
-      message: "Todo not found",
+      message: "Todo note found",
     });
   }
   res.json(todo);
