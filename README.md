@@ -30,6 +30,7 @@ This repository contains my 30-day journey learning and building projects using 
 | 6   | Clean & Scalable API Architecture | Refactored APIs for maintainability          |
 | 7   | Todo API Documentation            | Wrote professional README & API docs         |
 | 8   | Todo API with Authentication      | Implemented POST /api/users & JWT auth      |
+| 9   | Full-Stack MERN Todo App        | Implemented full MERN stack Todo app with JWT authentication, user registration, login, and CRUD operations for todos | 
 
 ---
 
