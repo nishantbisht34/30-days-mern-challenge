@@ -33,6 +33,8 @@ This repository contains my 30-day journey learning and building projects using 
 | 9   | Full-Stack MERN Todo App        | Implemented full MERN stack Todo app with JWT authentication, user registration, login, and CRUD operations for todos | 
 | 10 | Secure MERN Todo App | Implemented protected routes, improved UI/UX, and handled authentication-based access for a smoother user experience |
 | 11 | Full CRUD MERN Todo App | Implemented complete CRUD functionality with interactive UI, improved state management, and structured API for a production-like experience |
+| 12 | Enhanced MERN Todo App | Improved UI responsiveness, optimized component structure, added user feedback handling, and refined overall app performance for a smoother experience |
+
 
 ---
 
