@@ -1,14 +1,14 @@
 import { useState, useContext } from "react";
 import axios from "../axios";
 import { AuthContext } from "../context/AuthContext";
-import Register from "./Register"; // import Register component
+import Register from "./Register"; 
 import "../App.css";
 
 export default function Login() {
   const { login } = useContext(AuthContext);
   const [form, setForm] = useState({});
   const [error, setError] = useState("");
-  const [showRegister, setShowRegister] = useState(false); // new state
+  const [showRegister, setShowRegister] = useState(false); 
 
   const submit = async (e) => {
     e.preventDefault();
@@ -18,9 +18,9 @@ export default function Login() {
       login(data); // save token in context
     } catch (err) {
       if (err.response?.status === 401) {
-        // first-time login / user doesn't exist
+        
         setError("User not found. Please register first.");
-        setShowRegister(true); // show register page
+        setShowRegister(true);
       } else {
         setError(err.response?.data?.message || "Something went wrong");
       }
@@ -28,7 +28,7 @@ export default function Login() {
   };
 
   if (showRegister) {
-    return <Register message={error} />; // pass message to Register
+    return <Register message={error} />;
   }
 
   return (
