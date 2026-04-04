@@ -36,6 +36,7 @@ This repository contains my 30-day journey learning and building projects using 
 | 12 | Enhanced MERN Todo App | Improved UI responsiveness, optimized component structure, added user feedback handling, and refined overall app performance for a smoother experience |
 | 13 | Smart Todo App (Search + Filter) | Added real-time search, filtering options, and persistent dark mode to enhance usability and make the app more dynamic and user-friendly |
 | 14 | Advanced Todo App (Edit + UX Improvements) | Implemented inline editing, toast notifications, loading states, and error handling to enhance user interaction and achieve a production-level experience |
+| 15 | Secure Todo App with Protected Routes | Implemented authentication flow with protected routes, global auth state, and seamless redirects to build a secure and structured application |
 
 
 ---
